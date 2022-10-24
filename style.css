@@ -1,0 +1,44 @@
+.container .section .card-img-overlay{
+    align-items: center;
+    color: black;
+    
+}
+.container .section-2 .row1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.container .section-3 .container .row .col .gov{
+    margin-top: 50px;
+    align-items: center;
+}
+
+.container .section-10 .card button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container .section-11{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.container .footer{
+   background-color: 
+   #20003C;
+   color: #FFFFFF;
+   margin-top: 200px;
+}
+.container .footer b{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.container .footer .container .row{
+    margin-left: 60px;
+    padding-top: 40px;
+    padding-left: 60px;
+}
